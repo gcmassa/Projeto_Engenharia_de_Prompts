@@ -42,10 +42,10 @@ Utilizando uma esteira de prompts para estar gerando cada etapa do processo cria
     Crie uma imagem de capa para o Podcast, utilizando dos elementos do ícone da linguagem Python, sendo criativo no estilo gamer, com alta com qualidade 4k e proporção 1:1
 
 ### Audio gerado pela teconologia do ElevenLABS
-    - ![Audio do Podcast gerado](/Projeto_PODCAST_COM_IA/Narrador_PythonPLAY.mp3)
+    - ![Audio do Podcast gerado](./Projeto_PODCAST_COM_IA/Narrador_PythonPLAY.mp3)
 
 ### Audio tratado pronto para publicação feito com a ferramenta CapCut
-    - ![Audio do Podcast tratado](/Projeto_PODCAST_COM_IA/Podcast_PythonPLAY_comAI.MP3)
+    - ![Audio do Podcast tratado](./Projeto_PODCAST_COM_IA/Podcast_PythonPLAY_comAI.MP3)
 
 
 
