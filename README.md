@@ -6,9 +6,9 @@ Utilizando uma esteira de prompts para estar gerando cada etapa do processo cria
 
 ## 💻 Tecnologias utilizadas no projeto
 
--[Microsoft Copilot]
--[ElevenLabs]
--[CapCut]
+-Microsoft Copilot
+-ElevenLabs
+-CapCut
 
 ## ✨ Como foi feito ?
 
@@ -38,7 +38,7 @@ Utilizando uma esteira de prompts para estar gerando cada etapa do processo cria
     Não use termos técnicos
     Não ultrapasse 5 minutos de duração
 
-### Prompt utilizaod pno Microsoft Copilot para geração da Capa
+### Prompt utilizado pno Microsoft Copilot para geração da Capa
     Crie uma imagem de capa para o Podcast, utilizando dos elementos do ícone da linguagem Python, sendo criativo no estilo gamer, com alta com qualidade 4k e proporção 1:1
 
 ### Audio gerado pela teconologia do ElevenLABS
