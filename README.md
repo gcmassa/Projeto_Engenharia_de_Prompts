@@ -6,9 +6,9 @@ Utilizando uma esteira de prompts para estar gerando cada etapa do processo cria
 
 ## 💻 Tecnologias utilizadas no projeto
 
--Microsoft Copilot
--ElevenLabs
--CapCut
+- Microsoft Copilot
+- ElevenLabs
+- CapCut
 
 ## ✨ Como foi feito ?
 
